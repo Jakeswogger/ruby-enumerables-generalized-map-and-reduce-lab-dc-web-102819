@@ -14,5 +14,5 @@ def reduce(source_array, starting_point = nil)
     count = 0 
   else 
     sum = source_array[0]
-    
+    count = 1 
 end
